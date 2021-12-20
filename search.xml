@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>demo</title>
+    <url>/2021/12/20/test/</url>
+    <content><![CDATA[<p>22<br>以下是正文</p>
+<span id="more"></span>
+<p>2</p>
+<p><font color="#FF0000"> 我可以设置这一句的颜色哈哈 </font><br><font size=6> 我还可以设置这一句的大小嘻嘻 </font><br><font size=5 color="#FF0000"> 我甚至可以设置这一句的颜色和大小呵呵</font> </p>
+<center>这一行需要居中</center>
+
+
+<p>2<br>2<br>2<br>22<br>2<br>2</p>
+]]></content>
+      <categories>
+        <category>搭建博客</category>
+      </categories>
+      <tags>
+        <tag>npm</tag>
+        <tag>hexo</tag>
+        <tag>github</tag>
+      </tags>
+  </entry>
+</search>
